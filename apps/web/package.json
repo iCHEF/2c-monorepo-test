@@ -1,0 +1,9 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react-router": "^7.6.3",
+    "react-router-dom": "^7.6.3"
+  }
+}
